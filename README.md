@@ -6,3 +6,6 @@ against the Cps and Che genomes. Fasta files for Fusarium and the results of Cps
 Cps: http://mitos2.bioinf.uni-leipzig.de/result.py?name=JYJY010000551&hash=jq8ixRQN&no=0
 
 Che: http://mitos2.bioinf.uni-leipzig.de/result.py?name=scaffold_240&hash=GuAT1Czv&no=0
+
+## CGViewer
+http://cgview.ca/
